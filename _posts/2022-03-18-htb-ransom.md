@@ -496,10 +496,3 @@ And with the same password we can access with the root user and visualize the la
 <img src = "/assets/images/img-ransom/captura55.png">
 </p>
 
-And with this we would already have the machine pwned.
-
-<p align = "center">
-<img src = "/assets/images/img-ransom/captura56.png">
-</p>
-
-

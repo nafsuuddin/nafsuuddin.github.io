@@ -202,7 +202,7 @@ To enable this option we will go to the windows registry editor, and here we hav
 <img src = "/assets/images/img-rubberd/registry.png">
 </p>
 
-And now if we are going to run a program as administrator it will ask us for the password. AND PLEASE DO NOT PUT A TYPICAL PASSWORD THAT IS EASY TO GUESS!!🤬. 
+And now if we are going to run a program as administrator it will ask us for the password. 
 
 <p align = "center">
 <img src = "/assets/images/img-rubberd/password.png">

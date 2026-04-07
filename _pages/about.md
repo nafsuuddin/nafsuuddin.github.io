@@ -6,6 +6,6 @@ date: 2020-01-29
 ---
 <br>
 <p align="center">
-<img src="/assets/images/about2.png" />
+<img src="/assets/images/about.png" />
 </p>
 

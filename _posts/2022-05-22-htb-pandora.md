@@ -624,14 +624,3 @@ And now if we execute again the binary ***pandora_backup*** it will execute a **
 <p align = "center">
 <img src = "/assets/images/img-pandora/captura64.png">
 </p>
-
-And with that we ***pwned!!!!*** the machine.
-
-<p align = "center">
-<img src = "/assets/images/img-pandora/pwned.png">
-</p>
-
-## Pandora Writeup in real time
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dLi0c4aCDas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
